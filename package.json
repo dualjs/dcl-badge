@@ -1,7 +1,7 @@
 {
   "name": "dcl-badge",
   "description": "DCL Badge widget",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/dualjs/dcl-badge",
   "author": {
     "name": "Mark",
